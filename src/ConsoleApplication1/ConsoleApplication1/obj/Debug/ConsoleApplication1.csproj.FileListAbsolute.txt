@@ -1,1 +1,2 @@
 C:\Users\fukur\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\fukur\Desktop\Новая папка\src\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
